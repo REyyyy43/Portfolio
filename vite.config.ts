@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base:'https://reyyyy43.github.io/portfolio/',
+  base:'/portfolio/',
 })
